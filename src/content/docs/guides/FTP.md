@@ -7,13 +7,13 @@ Un servidor **FTP** (File Transfer Protocol, por sus siglas en inglés) es un ti
 
 A continuación aprenderás a instalarlo y uno de los metodos para securizarlo.
 
-## Paso 1 introducir el siguiente comando: 
+## Paso 1 introducir el siguiente comando:
 
 `sudo apt-get install vsftpd`
 
 A continuación se adjunta una imagen para poder visualizarlo:
 
-![img](../../../assets/instalarFTP.png)
+![img](../../../assets/InstalarFTP.png)
 
 
 ## Paso 2 comprobar que esta activo el servicio:
@@ -29,7 +29,7 @@ securizar el servicio.
 
 ## Paso 1 modificar el archivo de configuración del servidor.
 
-Lo que haremos acontinuación sera acceder al archvio de configuración y lo que haremos será activar una opción que 
+Lo que haremos acontinuación sera acceder al archvio de configuración y lo que haremos será activar una opción que
 permite acceder a los usuarios que se encuentran en un fichero.
 
 Para acceder al archivo usamos el siguiente comando
